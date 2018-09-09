@@ -1,5 +1,5 @@
 # Training the classifiers and then pickling.
-# Executing it sucks time. :P
+
 
 import nltk
 import random
